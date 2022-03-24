@@ -6,4 +6,5 @@ This study is working to build a model around the game of cricket. The study hop
 
 ## Contact information:
 Advisor: Debayan Gupta at debayan.gupta@ashoka.edu.in
+
 Researchers: Aakash Rao at aakash.rao_ug23@ashoka.edu.in and Aporva Arora at apoorva.arora_ug23@ashoka.edu.in
